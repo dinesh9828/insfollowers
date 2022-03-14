@@ -8,7 +8,7 @@ Best Tool For Increase Instagram Follower.
 `$ pkg install openssl-tool`
 `$ pkg install curl`
 `$ pkg install git`
-`$ git clone https://github.com//insfollowrs
+`$ git clone https://github.com/dinesh9828/insfollowers
 `$ cd insfollowrs
 `$ chmod +x insfollowrs.sh`
 `$ termux-wake-lock`
